@@ -1,0 +1,20 @@
+# Linguist overrides for GitHub language statistics
+*.ipynb linguist-documentation=false
+*.ipynb linguist-detectable=true
+
+# Mark large files
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.ckpt filter=lfs diff=lfs merge=lfs -text
+
+# Line ending normalization
+* text=auto
+
+# Python files
+*.py text eol=lf
+
+# Markdown files
+*.md text eol=lf
+
+# Jupyter notebooks
+*.ipynb text eol=lf

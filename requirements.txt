@@ -1,0 +1,29 @@
+# Deep Learning Medical Image Classification
+# Python 3.8+
+
+# Core Deep Learning Frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+timm>=0.9.0
+
+# Data Processing
+numpy>=1.21.0
+pandas>=1.3.0
+pillow>=9.0.0
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0
+opencv-python>=4.7.0
+
+# For Jupyter Notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=8.0.0
+
+# Optional: For downloading datasets
+gdown>=4.6.0
