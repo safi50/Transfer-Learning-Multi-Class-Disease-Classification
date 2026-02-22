@@ -1,4 +1,4 @@
-# Medical Image Classification using Deep Learning
+# Multi-Class Retinal Disease Classfication using Transfer Learning
 
 <div align="center">
 
